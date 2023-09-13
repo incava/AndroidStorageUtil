@@ -44,18 +44,15 @@
 이 기능을 사용한 예시 스크린샷 입니다. ( 소스에는 관련 UI가 없이 기능만 있습니다. )
 
 앱을 다시 만들 필요없이 외부에서 사진만 변경하였습니다.
-
-![외부저장소에서 사진 변경 전]
+외부저장소에서 사진 변경 전
 ![Screenshot_20230913_120045](https://github.com/incava/AndroidStorageUtil/assets/68988975/42d8835f-3c31-4da9-8179-5674112effa1)
 
 
-외부저장소에서 사진 변경 전
 
-![외부저장소에서 사진 변경 후]
+외부저장소에서 사진 변경 후
 ![Screenshot_20230913_123242](https://github.com/incava/AndroidStorageUtil/assets/68988975/949dbd02-c056-4e37-a55a-eb33bb7eadb6)
 
 
-외부저장소에서 사진 변경 후
 
 ## 코드 작성 전 세팅 방법
 
