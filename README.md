@@ -45,11 +45,15 @@
 
 앱을 다시 만들 필요없이 외부에서 사진만 변경하였습니다.
 
-![외부저장소에서 사진 변경 전](https://prod-files-secure.s3.us-west-2.amazonaws.com/62521e2c-32df-4b73-b4e3-59a680202c0b/74c0177f-3d84-4a37-b199-88f50dc540c9/Screenshot_20230913_120045.png)
+![외부저장소에서 사진 변경 전]
+![Screenshot_20230913_120045](https://github.com/incava/AndroidStorageUtil/assets/68988975/42d8835f-3c31-4da9-8179-5674112effa1)
+
 
 외부저장소에서 사진 변경 전
 
-![외부저장소에서 사진 변경 후](https://prod-files-secure.s3.us-west-2.amazonaws.com/62521e2c-32df-4b73-b4e3-59a680202c0b/b6e83886-e896-42e0-ab06-621262e6dc0c/Screenshot_20230913_123242.png)
+![외부저장소에서 사진 변경 후]
+![Screenshot_20230913_123242](https://github.com/incava/AndroidStorageUtil/assets/68988975/949dbd02-c056-4e37-a55a-eb33bb7eadb6)
+
 
 외부저장소에서 사진 변경 후
 
@@ -58,13 +62,14 @@
 ---
 
 1. 내장 저장공간 안에 원하는 폴더를 만듦니다. 저는 “Cafe”라는 폴더를 생성하였습니다. 
-    
-    ![KakaoTalk_Photo_2023-09-13-12-42-59 001.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/62521e2c-32df-4b73-b4e3-59a680202c0b/4be29852-1e6e-434b-b0cd-cede648eb63d/KakaoTalk_Photo_2023-09-13-12-42-59_001.jpeg)
+    ![KakaoTalk_Photo_2023-09-13-12-42-59 005](https://github.com/incava/AndroidStorageUtil/assets/68988975/f233a704-880d-425e-88e0-cfe1592cd450)
+
+
     
 
 1. 이 안에 원하는 사진을 넣어주세요. 이름은 편하게 지으시면 됩니다.
+   ![KakaoTalk_Photo_2023-09-13-12-50-18 (1)](https://github.com/incava/AndroidStorageUtil/assets/68988975/009c225f-8706-4d7c-b311-a37ad61f14b2)
 
-![KakaoTalk_Photo_2023-09-13-12-50-18.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/62521e2c-32df-4b73-b4e3-59a680202c0b/cd129845-8d04-4512-805b-530f67119978/KakaoTalk_Photo_2023-09-13-12-50-18.jpeg)
 
 각 폴더와 이름 명,그리고 확장명(jpg)까지 알고 있어야만 합니다.
 
